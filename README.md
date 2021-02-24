@@ -4,5 +4,5 @@
 - find pull location
 - cd valglokalePOC 
 - cd valglokalepoc
-- åpne i en code editor
-- skriv **npm start** i terminal
+- open in a code editor
+- write **npm start** in terminal
